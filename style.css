@@ -1,0 +1,26 @@
+body
+{
+    background-color: gold;
+}
+
+#score 
+{
+    font-size: 30px;
+    margin-left: -1100px;
+    font-weight: bolder;
+}
+
+#timer
+{
+    font-size: 30px;
+    float: right;
+    margin-right: 100px;
+    font-weight: bolder;
+}
+
+#draw_what
+{
+    color: red;
+    font-size: 25px;
+    font-weight: bolder;
+}
